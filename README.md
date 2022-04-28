@@ -13,5 +13,9 @@ a more more massive scale than I would ever, and that includes
 4. And other things that my brain can't handle to keep up to share it with you
 5. **Solve Problems** *(very broad term)*
 
+## Projects/ideas in mind
+1. Bring Back the keyboard-only computer era in a modern way. Using keyboard will make everything faster
+2. Catalog of worksheets, should be convinient and more entertaining
+
 
 *"Don't only think about the end result of your work, think and feel the experience of achieving success"* - **Jeddeius**
