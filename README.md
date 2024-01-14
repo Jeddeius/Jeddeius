@@ -1,4 +1,4 @@
-## welcome to my Github Profile
+## welcome to my Github Profile (VERY OUTDATED)
 # I'm Jeddeius
 I'm very new to this and so is my formality and professionalism
 I'm not only an aspiring computer programmer, it is more broader than that
